@@ -19,9 +19,9 @@ export const projects = [
     title: "LayOffs 23",
     subtitle: "A descriptive EDA on the recent tech layoffs.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "Using the kaggle dataset https://www.kaggle.com/datasets/theakhilb/layoffs-data-2022, this projects is made to better understand the trend and reason behind the massive tech layoffs since 2020s. ",
+    image: "./layoffs.avif",
+    link: "https://github.com/Manashwy/LayOffs_EDA/tree/main",
   },
   {
     title: "Epic Todo App",
